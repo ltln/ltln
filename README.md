@@ -8,5 +8,5 @@ I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High Scho
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/388345263191752704)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/yes.i.am.nguyen.ty)
 ***
-### Essential tools 🛠
-[![Rider](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=Visual%20Studio&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/)
+### Coding languages 🛠
+[![Java](https://img.shields.io/badge/Java-ea2e2d?style=flat-square&logo=java&logoColor=white "Java")](#)
