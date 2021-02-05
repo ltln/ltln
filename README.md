@@ -13,3 +13,8 @@ I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High Scho
 [![Javascript](https://img.shields.io/badge/Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white "Javascript")](#)
 [![PHP](https://img.shields.io/badge/PHP-697ab1?style=flat-square&logo=php&logoColor=white "PHP")](#)
 [![JSON](https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white "JSON")](#)
+***
+### Contact 🛠️
+Email: <a href="mailto:hello@thelt.ml">hello@thelt.ml</a>
+Discord: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/388345263191752704)
+Facebook: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/yes.i.am.nguyen.ty)
