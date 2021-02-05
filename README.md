@@ -9,4 +9,4 @@ I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High Scho
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/yes.i.am.nguyen.ty)
 ***
 ### Essential tools 🛠
-[![Rider](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=Visual Studio&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/)
+[![Rider](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=Visual%20Studio&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/)
