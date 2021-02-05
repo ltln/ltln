@@ -11,3 +11,4 @@ I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High Scho
 ### Coding languages 🛠
 [![Java](https://img.shields.io/badge/Java-ea2e2d?style=flat-square&logo=java&logoColor=white "Java")](#)
 [![Javascript](https://img.shields.io/badge/Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white "Javascript")](#)
+[![JSON](https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white "JSON")](#)
