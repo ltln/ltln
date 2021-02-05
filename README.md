@@ -1,5 +1,5 @@
 ## Xin chào :). Welcome to my profile 👋
-I'm Ty Nguyen (aka TheLT), come from Vietnam :flag_vn:. I'm a random 16-year-old High School dude who loves coding, especially Discord Bot (Discord.js). And yes, that's all. Have a good day :)
+I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High School dude who loves coding, especially Discord Bot (Discord.js). And yes, that's all. Have a good day :)
 ***
 ### GitHub Stats 🌠
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTheLT&theme=tokyonight&hide_border=true)](https://thelt.ml/?ref=github)
@@ -9,4 +9,4 @@ I'm Ty Nguyen (aka TheLT), come from Vietnam :flag_vn:. I'm a random 16-year-old
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/yes.i.am.nguyen.ty)
 ***
 ### Essential tools 🛠
-[![Rider](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=VisualStudio&logoColor=white "Rider")](#)
+[![Rider](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=Visual Studio&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/)
