@@ -1,5 +1,5 @@
 ## Xin chào :). Welcome to my profile 👋
-I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High School dude who loves coding, especially Discord Bot (Discord.js). And yes, that's all. Have a good day :)
+I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High School dude who loves coding. I'm currently working on some PHP projects.
 ***
 ### GitHub Stats 🌠
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TyNguyenTheLT&theme=tokyonight&hide_border=true)](https://thelt.ml/?ref=github)
