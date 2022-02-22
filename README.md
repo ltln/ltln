@@ -1,8 +1,8 @@
 ## Xin chào :). Welcome to my profile 👋
-I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 16-year-old High School dude who loves coding. I'm currently working on some PHP projects.
+I'm Ty Nguyen (aka TheLT), come from Vietnam. I'm a random 17-year-old High School dude who loves coding. I'm currently working on some PHP projects.
 ***
 ### GitHub Stats 🌠
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TyNguyenTheLT&theme=tokyonight&hide_border=true)](https://thelt.ml/?ref=github)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTyNguyen&theme=tokyonight&hide_border=true)](https://thelt.ml/?ref=github)
 ***
 ### Social profile 🤝🏻
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/388345263191752704)
