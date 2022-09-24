@@ -2,7 +2,7 @@
 I'm Ty Nguyen (aka LT) or Louis, a 17-year-old senior high schooler trying to make it to university.
 ***
 ### GitHub Stats 🌠
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltln&theme=tokyonight&hide_border=true)](https://thelt.ml/?ref=github)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltln&theme=tokyonight&hide_border=true)](https://louislt.xyz)
 ***
 ### Contact 📔
 Email: <a href="mailto:louisnguyen@duck.com">louisnguyen@duck.com</a><br>
