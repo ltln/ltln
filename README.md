@@ -1,5 +1,5 @@
 ## Xin chào! Hello! Bonjour! こんにちは! ¡Hola!. Welcome to my profile 👋
-I'm Ty Nguyen (aka LT) or Louis, a 17-year-old senior high schooler trying to make it to university.
+I'm Ty Nguyen (aka LT) or Louis, a 18-year-old making the way to university (UIT <3) 
 ***
 ### GitHub Stats 🌠
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltln&theme=tokyonight&hide_border=true)](https://louislt.xyz)
