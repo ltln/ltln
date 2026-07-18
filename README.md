@@ -1,10 +1,39 @@
-## Xin chào! Hello! Bonjour! こんにちは! ¡Hola!. Welcome to my profile 👋
-I'm Ty Nguyen (aka LT) or Louis, a 20-year-old student of Ho Chi Minh University of Information Technology - Information Security
-***
-### GitHub Stats 🌠
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltln&theme=tokyonight&hide_border=true)](https://lt.id.vn)
-***
-### Contact 📔
-Email: <a href="mailto:louisnguyen@duck.com">louisnguyen@duck.com</a><br>
-Discord: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/388345263191752704)<br>
-Facebook: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/ltln3005)
+<p align="center">
+  <img src="https://staging-portfolio.lou.moe/api/hero" alt="Louis' Hero Banner">
+</p>
+<p align="center">
+  <b>Full-stack Developer • DevOps Enthusiast • Cloud Explorer</b>
+</p>
+
+---
+
+- 📍 **Ty Nguyen** (Louis), 21 • Undergraduate at the University of Information Technology, VNU-HCM.
+- 🚀 I build software and ship it to the cloud.
+- 🌱 Currently diving into Kubernetes, cloud infrastructure, and platform engineering.
+- 📫 Connect with me via [Email](mailto:louis@lt.id.vn) · [LinkedIn](https://linkedin.com/in/ltln) · [Website](https://lou.moe)
+
+--- 
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ltln&langs_count=4&hide_values=true&theme=dark" align="right"/>
+
+```console
+$ whoami
+Ty Nguyen (Louis)
+
+$ stack
+TypeScript • Java • Bash
+React • Next.js • Node.js
+MySQL • PostgreSQL • Redis
+Docker • Kubernetes • AWS • OpenStack
+
+$ currently
+Building full-stack apps and learning platform engineering
+```
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ltln&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark">
+</p>
+
+---
+<p align="center">
+  <sub>✨ <i>May every road you take lead you somewhere worth remembering.</i></sub>
+</p>
