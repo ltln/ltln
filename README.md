@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://staging-portfolio.lou.moe/api/hero" alt="Louis' Hero Banner">
+  <img src="https://staging-portfolio.lou.moe/api/hero?theme=random" alt="Louis' Hero Banner">
 </p>
 <p align="center">
   <b>Full-stack Developer • DevOps Enthusiast • Cloud Explorer</b>
